@@ -1,9 +1,11 @@
 #ifndef Flow_h
 #define Flow_h
 
-
-#include "Arduino.h"
-
+#if defined(ARDUINO) && (ARDUINO >= 100)
+#include <Arduino.h>
+#else
+#include <WProgram.h>
+#endif
 
 extern int pulses1 = 0;
 extern int pulses2 = 0;
