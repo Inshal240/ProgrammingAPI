@@ -1,0 +1,8 @@
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\obj\Debug\ProgrammingAPI.csprojResolveAssemblyReference.cache
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\obj\Debug\ProgrammingAPI.Properties.Resources.resources
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\obj\Debug\ProgrammingAPI.csproj.GenerateResource.Cache
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\bin\Debug\ProgrammingAPI.exe
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\bin\Debug\ProgrammingAPI.pdb
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\obj\Debug\ProgrammingAPI.Form1.resources
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\obj\Debug\ProgrammingAPI.exe
+C:\Users\Smug-pc\Documents\GitHub\ProgrammingAPI\ProgrammingAPI\obj\Debug\ProgrammingAPI.pdb

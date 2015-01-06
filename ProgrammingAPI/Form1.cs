@@ -7,13 +7,25 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Deletethis
+namespace ProgrammingAPI
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
+            string[] options = System.IO.File.ReadAllLines("Libraries.txt");
+            foreach (string option in options)
+            {
+                comboBox1.Items.Add(option);
+                comboBox2.Items.Add(option);
+                comboBox3.Items.Add(option);
+                comboBox4.Items.Add(option);
+                comboBox5.Items.Add(option);
+                comboBox6.Items.Add(option);
+                comboBox7.Items.Add(option);
+                comboBox8.Items.Add(option);
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,6 +46,11 @@ namespace Deletethis
         private void tabPage2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void comboBox8_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
