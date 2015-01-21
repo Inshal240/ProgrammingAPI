@@ -67,7 +67,13 @@ namespace ProgrammingAPI
             
             }
             richTextBox1.Text = Sensors;
-            
+            SerialPort pr = new SerialPort("COM9");
+            pr.Open();
+            pr.BaudRate = 9600;
+
+            pr.Write(Sensors);
+
+            pr.Close();
             
             
         }
